@@ -46,5 +46,3 @@ Yani eğer belirli bir shard kullanmak istersen `shards.js` dosyasındaki **tota
 
 ## Sunucu
 [![Discord Banner](https://api.weblutions.com/discord/invite/codeblog/)](https://discord.gg/codeblog)
-
--# CodeBlog Tüm Hakları Saklıdır
